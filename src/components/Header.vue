@@ -3,7 +3,6 @@
     <span id="logo"></span> 
     <nav class="navigation">
       <router-link to="/" class="nav-link">Home</router-link>
-      <router-link to="/about" class="nav-link">Sobre nós</router-link>
       <router-link id="adocao" to="/AnimaisParaAdocao" class="nav-link">Animais Para Adoção</router-link> 
     </nav>
   </header>

@@ -32,7 +32,7 @@
 
   h1{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     padding: 20px;
     
   }

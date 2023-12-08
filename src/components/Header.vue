@@ -7,6 +7,7 @@
       <router-link id="adocao" to="/AnimaisParaAdocao" class="nav-link">Animais Para Adoção</router-link> 
     </nav>
   </header>
+  <router-view/>
 </template>
 
 <script>
